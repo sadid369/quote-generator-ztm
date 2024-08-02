@@ -40,3 +40,4 @@ newQuoteBtn.addEventListener("click", newQuote);
 twitterBtn.addEventListener("click", tweetQuote);
 // on Load
 getQuotes();
+// finished @ 22. new creating
